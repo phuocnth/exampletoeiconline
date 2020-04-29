@@ -18,6 +18,8 @@
         <module>toeic-platform-core-service</module>
         <module>toeic-platform-core-service-impl</module>
         <module>toeic-platform-core-utils</module>
+        <module>toeic-platform-persistence-data</module>
+        <module>toeic-platform-core-common</module>
     </modules>
 
     <properties></properties>
