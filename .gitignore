@@ -1,0 +1,12 @@
+/toeic-core-test/target
+/toeic-platform-core-common/target
+/toeic-platform-core-dao/target
+/toeic-platform-core-dao-impl/target
+/toeic-platform-core-data/target
+/toeic-platform-core-dto/target
+/toeic-platform-core-service/target
+/toeic-platform-core-service-impl/target
+/toeic-platform-core-utils/target
+/toeic-platform-persistence-data/target
+/toeic-web/target
+/toeic-web-logic/target
